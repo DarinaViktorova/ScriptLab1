@@ -7,6 +7,10 @@
     "start": "node start.js",
     "test": "jest"
   },
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/DarinaViktorova/ScriptLab1.git"
+  },
   "author": "Darina Viktorova",
   "license": "ISC",
   "dependencies": {
